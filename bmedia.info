@@ -86,12 +86,6 @@ dependencies[] = timefield
 ; FlexSlider
 dependencies[] = flexslider
 dependencies[] = flexslider_views
-; HybridAuth
-dependencies[] = hybridauth
-; Invite
-dependencies[] = invite
-dependencies[] = invite_by_email
-dependencies[] = invite_notifications
 ; Media
 dependencies[] = file_entity
 dependencies[] = imce
