@@ -2,25 +2,170 @@ name = BMedia
 description = BMedia install with commonly used features pre-configured.
 version = VERSION
 core = 7.x
+
+; ----------
+; Dependencies
+; ----------
+; Administration
+dependencies[] = admin_menu
+dependencies[] = coffee
+dependencies[] = module_filter
+; Chaos tool suite
+dependencies[] = bulk_export
+dependencies[] = ctools
+dependencies[] = page_manager
+dependencies[] = pm_existing_pages
+; Context
+dependencies[] = context
+dependencies[] = context_layouts
+dependencies[] = context_og
+dependencies[] = context_ui
+; Core
 dependencies[] = block
+dependencies[] = book
 dependencies[] = color
 dependencies[] = comment
 dependencies[] = contextual
-dependencies[] = dashboard
+dependencies[] = field
+dependencies[] = field_sql_storage
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
 dependencies[] = help
 dependencies[] = image
 dependencies[] = list
 dependencies[] = menu
+dependencies[] = node
 dependencies[] = number
 dependencies[] = options
 dependencies[] = path
-dependencies[] = taxonomy
-dependencies[] = dblog
-dependencies[] = search
-dependencies[] = shortcut
-dependencies[] = toolbar
-dependencies[] = overlay
-dependencies[] = field_ui
-dependencies[] = file
 dependencies[] = rdf
-
+dependencies[] = search
+dependencies[] = system
+dependencies[] = taxonomy
+dependencies[] = text
+dependencies[] = toolbar
+dependencies[] = trigger
+dependencies[] = user
+; Date/Time
+dependencies[] = calendar
+dependencies[] = date
+dependencies[] = date_all_day
+dependencies[] = date_api
+dependencies[] = date_popup
+dependencies[] = date_views
+; Development
+dependencies[] = profiler_builder
+; Display Suite
+dependencies[] = ds
+dependencies[] = ds_forms
+dependencies[] = ds_ui
+; Feeds
+dependencies[] = feeds
+dependencies[] = feeds_ui
+dependencies[] = feeds_xpathparser
+; Fields
+dependencies[] = addressfield
+dependencies[] = bundle_copy
+dependencies[] = computed_field
+dependencies[] = conditional_fields
+dependencies[] = email
+dependencies[] = entityreference
+dependencies[] = entityreference_prepopulate
+dependencies[] = fences
+dependencies[] = field_collection
+dependencies[] = field_group
+dependencies[] = field_permissions
+dependencies[] = field_validation
+dependencies[] = field_validation_ui
+dependencies[] = link
+dependencies[] = machine_name
+dependencies[] = markup
+dependencies[] = select_or_other
+dependencies[] = timefield
+; FlexSlider
+dependencies[] = flexslider
+dependencies[] = flexslider_views
+; HybridAuth
+dependencies[] = hybridauth
+; Invite
+dependencies[] = invite
+dependencies[] = invite_by_email
+dependencies[] = invite_notifications
+; Media
+dependencies[] = file_entity
+dependencies[] = imce
+dependencies[] = media
+; Node export
+dependencies[] = node_export
+; Nodejs
+dependencies[] = nodejs
+dependencies[] = nodejs_actions
+dependencies[] = nodejs_notify
+; Other
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = job_scheduler
+dependencies[] = libraries
+dependencies[] = logintoboggan
+dependencies[] = masquerade
+dependencies[] = menu_block
+dependencies[] = menu_token
+dependencies[] = prepopulate
+dependencies[] = profile2
+dependencies[] = resp_img
+dependencies[] = securelogin
+dependencies[] = strongarm
+dependencies[] = token
+dependencies[] = weight
+; Panels
+dependencies[] = panelizer
+dependencies[] = panels
+dependencies[] = panels_breadcrumbs
+dependencies[] = panels_extra_layouts
+dependencies[] = panels_mini
+; Path management
+dependencies[] = globalredirect
+; Performance and scalability
+dependencies[] = entitycache
+; Printer, email and PDF versions
+dependencies[] = print
+dependencies[] = print_ui
+; Rules
+dependencies[] = rules
+dependencies[] = rules_admin
+; Spam control
+dependencies[] = honeypot
+; Taxonomy
+dependencies[] = taxonomy_edge
+; Theme Tools
+dependencies[] = delta
+dependencies[] = delta_blocks
+dependencies[] = delta_color
+dependencies[] = delta_ui
+; UUID
+dependencies[] = uuid
+dependencies[] = uuid_path
+; User Access & Authentication
+dependencies[] = rpt
+; User interface
+dependencies[] = chosen
+dependencies[] = imce_wysiwyg
+dependencies[] = lightbox2
+dependencies[] = responsive_menus
+dependencies[] = superfish
+dependencies[] = wysiwyg
+; Views
+dependencies[] = eva
+dependencies[] = menu_views
+dependencies[] = views
+dependencies[] = views_bulk_operations
+dependencies[] = views_field_view
+dependencies[] = views_megarow
+dependencies[] = views_taxonomy_edge
+dependencies[] = views_ui
+; Webform
+dependencies[] = webform
+dependencies[] = webform_rules
+; Features
+dependencies[] = features
