@@ -100,5 +100,6 @@ dependencies[] = wysiwyg
 dependencies[] = uuid
 dependencies[] = eva
 dependencies[] = views
+dependencies[] = views_ui
 dependencies[] = views_bulk_operations
 dependencies[] = webform
