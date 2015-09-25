@@ -47,3 +47,59 @@ dependencies[] = text
 dependencies[] = toolbar
 dependencies[] = trigger
 dependencies[] = user
+; Date/Time
+dependencies[] = date
+dependencies[] = date_api
+dependencies[] = date_popup
+dependencies[] = date_views
+; Features
+dependencies[] = features
+; Feeds
+dependencies[] = feeds
+dependencies[] = feeds_ui
+dependencies[] = feeds_xpathparser
+dependencies[] = job_scheduler
+; Fields
+dependencies[] = addressfield
+dependencies[] = bundle_copy
+dependencies[] = entityreference
+dependencies[] = entityreference_prepopulate
+dependencies[] = link
+dependencies[] = select_or_other
+; Media
+dependencies[] = imce
+dependencies[] = media
+; Meta tags
+dependencies[] = metatags_quick
+
+; Other
+dependencies[] = libraries
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = token
+
+; Rules
+dependencies[] = rules
+dependencies[] = rules_admin
+
+; Statistics
+dependencies[] = googleanalytics
+
+; Spam control
+dependencies[] = honeypot
+
+; User interface
+dependencies[] = chosen
+dependencies[] = ckeditor_link
+dependencies[] = imce_wysiwyg
+dependencies[] = lightbox2
+dependencies[] = responsive_menus
+dependencies[] = superfish
+dependencies[] = wysiwyg
+
+; Views
+dependencies[] = uuid
+dependencies[] = eva
+dependencies[] = views
+dependencies[] = views_bulk_operations
+dependencies[] = webform
