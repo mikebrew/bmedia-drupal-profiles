@@ -18,7 +18,6 @@ dependencies[] = pm_existing_pages
 ; Context
 dependencies[] = context
 dependencies[] = context_layouts
-dependencies[] = context_og
 dependencies[] = context_ui
 ; Core
 dependencies[] = block
