@@ -253,6 +253,11 @@ libraries[fullcalendar][download][url] = https://github.com/arshaw/fullcalendar/
 libraries[fullcalendar][destination] = libraries
 libraries[fullcalendar][directory_name] = fullcalendar
 
+; Installation Profiles
+projects[bmedia][type] = "profile"
+projects[bmedia][download][type] = "git"
+projects[bmedia][download][revision] = "master"
+libraries[hybridauth][download][url] = https://github.com/mikebrew/bmedia-drupal-profiles.git
 
 ; Themes
 ;projects[omega][type] = theme
