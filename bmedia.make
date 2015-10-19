@@ -8,7 +8,8 @@ projects[drupal][download][type] = "get"
 ;projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.26.1.tar.gz"
 
 ;via Drupal.org
-projects[drupal][download][url] = "http://ftp.drupal.org/files/projects/drupal-7.36.tar.gz"
+projects[drupal][download][url] = "http://ftp.drupal.org/files/projects/drupal-7.40.tar.gz"
+
 
 ; Modules
 projects[] = adaptive_image
@@ -75,10 +76,13 @@ projects[] = field_group
 projects[] = field_permissions
 projects[] = field_validation
 projects[] = file_entity
+projects[] = flag
+projects[] = flag_files
 projects[] = flexslider
 projects[] = fontyourface
 projects[] = friendly_register
 projects[] = fullcalendar
+projects[] = geolocation
 projects[] = google_analytics
 projects[] = hierarchical_select
 projects[] = honeypot
@@ -126,6 +130,7 @@ projects[] = pathologic
 projects[] = pm_existing_pages
 projects[] = prepopulate
 projects[] = profile2
+projects[] = profiler_builder
 projects[] = protected_pages
 projects[] = publishcontent
 projects[] = quickbar
@@ -138,7 +143,9 @@ projects[] = securelogin
 projects[] = select_or_other
 projects[] = services
 projects[] = smtp
+projects[] = special_menu_items
 projects[] = strongarm
+projects[] = storage_api
 projects[] = styleguide
 projects[] = superfish
 projects[] = support
@@ -162,8 +169,7 @@ projects[] = workflow
 ;Referenced / not installed on all platforms
 ;projects[] = multiupload_filefield_widget
 ;projects[] = webform_multifile
-;projects[] = webform_validation
-;projects[] = webform_rules
+;projects[] = webform_validation  //Warning! Incompatible with Webform 4.8!
 ;projects[] = clone
 ;projects[] = field_conditional_state
 ;projects[] = galleryformatter
@@ -212,7 +218,7 @@ libraries[flexslider][destination] = libraries
 libraries[flexslider][directory_name] = flexslider
 libraries[flexslider][download][branch] = master
 
-libraries[html5shiv][download][type] = git 
+libraries[html5shiv][download][type] = git
 libraries[html5shiv][download][url] = https://github.com/aFarkas/html5shiv.git
 libraries[html5shiv][destination] = libraries
 libraries[html5shiv][directory_name] = html5shiv
@@ -250,4 +256,3 @@ libraries[fullcalendar][directory_name] = fullcalendar
 
 ; Themes
 ;projects[omega][type] = theme
-
