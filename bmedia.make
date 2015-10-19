@@ -257,7 +257,7 @@ libraries[fullcalendar][directory_name] = fullcalendar
 projects[bmedia][type] = "profile"
 projects[bmedia][download][type] = "git"
 projects[bmedia][download][revision] = "master"
-libraries[hybridauth][download][url] = https://github.com/mikebrew/bmedia-drupal-profiles.git
+projects[bmedia][download][url] = https://github.com/mikebrew/bmedia-drupal-profiles.git
 
 ; Themes
 ;projects[omega][type] = theme
