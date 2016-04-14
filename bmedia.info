@@ -6,8 +6,11 @@ core = 7.x
 ; ----------
 ; Dependencies
 ; ----------
+; Access Control
+dependencies[] = content_access
 ; Administration
 dependencies[] = admin_menu
+dependendies[] = admin_menu_toolbar
 dependencies[] = coffee
 dependencies[] = module_filter
 ; Chaos tool suite
@@ -102,4 +105,8 @@ dependencies[] = eva
 dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = views_bulk_operations
+dependencies[] = views_xml
+dependencies[] = views_json
+
+; Webform
 dependencies[] = webform

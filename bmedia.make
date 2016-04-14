@@ -8,7 +8,7 @@ projects[drupal][download][type] = "get"
 ;projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.26.1.tar.gz"
 
 ;via Drupal.org
-projects[drupal][download][url] = "http://ftp.drupal.org/files/projects/drupal-7.40.tar.gz"
+projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-7.43.tar.gz"
 
 
 ; Modules
@@ -21,6 +21,7 @@ projects[] = advanced_help
 projects[] = auto_nodetitle
 projects[] = backup_migrate
 projects[] = bean
+projects[] = better_exposed_filters
 projects[] = better_formats
 projects[] = block_class
 projects[] = bundle_copy
@@ -58,16 +59,16 @@ projects[] = diff
 projects[] = ds
 projects[] = easy_breadcrumb
 projects[] = email
-projects[] = email_auto_login
-projects[] = empty_page
 projects[] = entity
 projects[] = entitycache
+projects[] = entityform
 projects[] = entityreference
 projects[] = entityreference_prepopulate
 projects[] = eva
 projects[] = features
 projects[] = features_extra
 projects[] = feeds
+projects[] = feeds_jsonpath_parser
 projects[] = feeds_tamper
 projects[] = feeds_xpathparser
 projects[] = fences
@@ -79,16 +80,15 @@ projects[] = file_entity
 projects[] = flag
 projects[] = flag_files
 projects[] = flexslider
-projects[] = fontyourface
 projects[] = friendly_register
-projects[] = fullcalendar
 projects[] = geolocation
+projects[] = globalredirect
 projects[] = google_analytics
 projects[] = hierarchical_select
 projects[] = honeypot
 projects[] = hybridauth
-projects[] = imagecache_actions
-projects[] = imagefield_crop
+;projects[] = imagecache_actions
+;projects[] = imagefield_crop
 projects[] = imce
 projects[] = imce_filefield
 projects[] = imce_wysiwyg
@@ -113,13 +113,14 @@ projects[] = menu_token
 projects[] = menu_views
 projects[] = message
 projects[] = message_notify
-projects[] = metatags_quick
+;projects[] = metatags_quick
 projects[] = module_filter
 projects[] = node_export
+projects[] = node_noindex
 projects[] = nodeblock
 projects[] = nodejs
-projects[] = og
-projects[] = og_extras
+;projects[] = og
+;projects[] = og_extras
 projects[] = options_element
 projects[] = panels
 projects[] = panelizer
@@ -145,7 +146,6 @@ projects[] = services
 projects[] = smtp
 projects[] = special_menu_items
 projects[] = strongarm
-projects[] = storage_api
 projects[] = styleguide
 projects[] = superfish
 projects[] = support
@@ -157,18 +157,20 @@ projects[] = uuid
 projects[] = views
 projects[] = views_bulk_operations
 projects[] = views_data_export
+projects[] = views_datasource
 projects[] = views_field_view
 projects[] = views_megarow
 projects[] = views_slideshow
 projects[] = views_xml_backend
 projects[] = webform
 projects[] = webform_rules
+projects[] = webform_multifile
 projects[] = weight
 projects[] = workflow
+projects[] = wysiwyg
 
 ;Referenced / not installed on all platforms
 ;projects[] = multiupload_filefield_widget
-;projects[] = webform_multifile
 ;projects[] = webform_validation  //Warning! Incompatible with Webform 4.8!
 ;projects[] = clone
 ;projects[] = field_conditional_state
@@ -182,10 +184,6 @@ projects[] = workflow
 
 ;Install command
 ;drush dl multiupload_field_widget, webform_multifile, webform_validation, webform_rules, clone, field_conditional_state, galleryformatter, video, context_og, nodeaccess, og_menu, omega
-
-projects[wysiwyg][download][type] = "get"
-projects[wysiwyg][download][url] = http://ftp.drupal.org/files/projects/wysiwyg-7.x-2.2.tar.gz
-projects[wysiwyg][destination] = modules
 
 ; Libraries
 libraries[chosen][download][type] = git
@@ -248,16 +246,14 @@ libraries[hybridauth][destination] = libraries
 libraries[hybridauth][directory_name] = hybridauth
 libraries[hybridauth][download][branch] = master
 
-libraries[fullcalendar][type] = get
-libraries[fullcalendar][download][url] = https://github.com/arshaw/fullcalendar/releases/download/v2.1.1/fullcalendar-2.1.1.zip
-libraries[fullcalendar][destination] = libraries
-libraries[fullcalendar][directory_name] = fullcalendar
+libraries[jsonpath][type] = git
+libraries[jsonpath][download][url] = https://github.com/mikebrew/jsonpath.git
+libraries[jsonpath][destination] = libraries
+libraries[jsonpath][directory_name] = jsonpath
+libraries[jsonpath][download][branch] = master
 
-; Installation Profiles
-projects[bmedia][type] = "profile"
-projects[bmedia][download][type] = "git"
-projects[bmedia][download][revision] = "master"
-projects[bmedia][download][url] = https://github.com/mikebrew/bmedia-drupal-profiles.git
+
+
 
 ; Themes
 ;projects[omega][type] = theme
