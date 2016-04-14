@@ -73,6 +73,7 @@ projects[] = feeds_tamper
 projects[] = feeds_xpathparser
 projects[] = fences
 projects[] = field_collection
+projects[] = field_conditional_state
 projects[] = field_group
 projects[] = field_permissions
 projects[] = field_validation
@@ -113,14 +114,16 @@ projects[] = menu_token
 projects[] = menu_views
 projects[] = message
 projects[] = message_notify
-;projects[] = metatags_quick
 projects[] = module_filter
+projects[] = multiupload_filefield_widget
+projects[] = nodeaccess
 projects[] = node_export
+projects[] = node_clone
 projects[] = node_noindex
 projects[] = nodeblock
 projects[] = nodejs
-;projects[] = og
-;projects[] = og_extras
+projects[] = og
+projects[] = og_extras
 projects[] = options_element
 projects[] = panels
 projects[] = panelizer
@@ -132,11 +135,9 @@ projects[] = pm_existing_pages
 projects[] = prepopulate
 projects[] = profile2
 projects[] = profiler_builder
-projects[] = protected_pages
 projects[] = publishcontent
 projects[] = quickbar
 projects[] = recaptcha
-projects[] = remember_me
 projects[] = responsive_menus
 projects[] = resp_img
 projects[] = rules
@@ -154,6 +155,7 @@ projects[] = timefield
 projects[] = token
 projects[] = transliteration
 projects[] = uuid
+projects[] = video
 projects[] = views
 projects[] = views_bulk_operations
 projects[] = views_data_export
@@ -170,17 +172,10 @@ projects[] = workflow
 projects[] = wysiwyg
 
 ;Referenced / not installed on all platforms
-;projects[] = multiupload_filefield_widget
-;projects[] = webform_validation  //Warning! Incompatible with Webform 4.8!
-;projects[] = clone
-;projects[] = field_conditional_state
-;projects[] = galleryformatter
-;projects[] = video
-;projects[] = workbench
 ;projects[] = context_og
 ;projects[] = og_menu
 ;projects[] = omega
-;projects[] = nodeaccess
+
 
 ;Install command
 ;drush dl multiupload_field_widget, webform_multifile, webform_validation, webform_rules, clone, field_conditional_state, galleryformatter, video, context_og, nodeaccess, og_menu, omega
