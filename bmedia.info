@@ -6,107 +6,119 @@ core = 7.x
 ; ----------
 ; Dependencies
 ; ----------
-; Access Control
-dependencies[] = content_access
-; Administration
+; A
 dependencies[] = admin_menu
-dependendies[] = admin_menu_toolbar
-dependencies[] = coffee
-dependencies[] = module_filter
-; Chaos tool suite
+dependencies[] = admin_menu_toolbar
+dependencies[] = addressfield
+dependencies[] = autocomplete_deluxe
+
+; B
 dependencies[] = bulk_export
-dependencies[] = ctools
-dependencies[] = page_manager
-dependencies[] = pm_existing_pages
-; Context
+dependencies[] = block
+dependencies[] = book
+dependencies[] = bundle_copy
+
+; C
+dependencies[] = content_access
+dependencies[] = coffee
 dependencies[] = context
 dependencies[] = context_layouts
 dependencies[] = context_ui
-; Core
-dependencies[] = block
-dependencies[] = book
+dependencies[] = ctools
 dependencies[] = color
 dependencies[] = comment
 dependencies[] = contextual
+dependencies[] = chosen
+dependencies[] = ckeditor_link
+
+; D
+dependencies[] = date
+dependencies[] = date_api
+dependencies[] = date_popup
+dependencies[] = date_views
+
+; E
+dependencies[] = entityreference
+dependencies[] = entityreference_prepopulate
+dependencies[] = eva
+dependencies[] = entity
+dependencies[] = entity_token
+
+; F
 dependencies[] = field
 dependencies[] = field_sql_storage
 dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = filter
+dependencies[] = feeds
+dependencies[] = feeds_ui
+dependencies[] = feeds_xpathparser
+dependencies[] = features
+
+; G-H
+dependencies[] = googleanalytics
 dependencies[] = help
+dependencies[] = honeypot
+
+; I-J
 dependencies[] = image
+dependencies[] = imce
+dependencies[] = imce_wysiwyg
+dependencies[] = job_scheduler
+
+; L
+dependencies[] = lightbox2
+dependencies[] = libraries
+dependencies[] = link
 dependencies[] = list
+
+; M
 dependencies[] = menu
+dependencies[] = module_filter
+dependencies[] = media
+
+; N
 dependencies[] = node
 dependencies[] = number
+
+; O
 dependencies[] = options
+
+; P
 dependencies[] = path
+dependencies[] = page_manager
+dependencies[] = pm_existing_pages
+
+; R
+dependencies[] = rules
+dependencies[] = rules_admin
+dependencies[] = responsive_menus
 dependencies[] = rdf
+
+; S
+dependencies[] = select_or_other
+dependencies[] = superfish
 dependencies[] = search
 dependencies[] = system
+
+; T
+dependencies[] = token
 dependencies[] = taxonomy
 dependencies[] = text
 dependencies[] = toolbar
 dependencies[] = trigger
-dependencies[] = user
-; Date/Time
-dependencies[] = date
-dependencies[] = date_api
-dependencies[] = date_popup
-dependencies[] = date_views
-; Features
-dependencies[] = features
-; Feeds
-dependencies[] = feeds
-dependencies[] = feeds_ui
-dependencies[] = feeds_xpathparser
-dependencies[] = job_scheduler
-; Fields
-dependencies[] = addressfield
-dependencies[] = bundle_copy
-dependencies[] = entityreference
-dependencies[] = entityreference_prepopulate
-dependencies[] = link
-dependencies[] = select_or_other
-; Media
-dependencies[] = imce
-dependencies[] = media
-; Meta tags
-dependencies[] = metatags_quick
 
-; Other
-dependencies[] = libraries
-dependencies[] = entity
-dependencies[] = entity_token
-dependencies[] = token
-
-; Rules
-dependencies[] = rules
-dependencies[] = rules_admin
-
-; Statistics
-dependencies[] = googleanalytics
-
-; Spam control
-dependencies[] = honeypot
-
-; User interface
-dependencies[] = chosen
-dependencies[] = ckeditor_link
-dependencies[] = imce_wysiwyg
-dependencies[] = lightbox2
-dependencies[] = responsive_menus
-dependencies[] = superfish
-dependencies[] = wysiwyg
-
-; Views
+; U
 dependencies[] = uuid
-dependencies[] = eva
+dependencies[] = user
+
+; V
 dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = views_bulk_operations
 dependencies[] = views_xml
 dependencies[] = views_json
 
-; Webform
+; W
 dependencies[] = webform
+dependencies[] = wysiwyg
