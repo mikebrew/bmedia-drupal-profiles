@@ -13,6 +13,7 @@ dependencies[] = addressfield
 dependencies[] = autocomplete_deluxe
 
 ; B
+dependencies[] = better_exposed_filters
 dependencies[] = bulk_export
 dependencies[] = block
 dependencies[] = book
