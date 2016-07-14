@@ -144,6 +144,7 @@ projects[] = recaptcha
 projects[] = responsive_menus
 projects[] = resp_img
 projects[] = rules
+projects[] = safeword
 projects[] = securelogin
 projects[] = select_or_other
 projects[] = services
