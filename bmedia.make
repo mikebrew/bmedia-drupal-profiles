@@ -96,6 +96,7 @@ projects[] = imce_filefield
 projects[] = imce_wysiwyg
 projects[] = inline_entity_form
 projects[] = job_scheduler
+projects[] = jquery_update
 projects[] = libraries
 projects[] = lightbox2
 projects[] = link
