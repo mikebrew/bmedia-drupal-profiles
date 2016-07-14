@@ -260,5 +260,5 @@ libraries[jsonpath][download][branch] = master
 
 ; Themes
 ;projects[omega][type] = theme
-projects[zen][type] = theme
-projects[bootstrap] = theme
+;projects[zen][type] = theme
+;projects[bootstrap] = theme
