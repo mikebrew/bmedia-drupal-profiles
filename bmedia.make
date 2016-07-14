@@ -159,6 +159,7 @@ projects[] = uuid
 projects[] = video
 projects[] = views
 projects[] = views_bulk_operations
+projects[] = views_calc
 projects[] = views_data_export
 projects[] = views_datasource
 projects[] = views_field_view
@@ -253,3 +254,4 @@ libraries[jsonpath][download][branch] = master
 
 ; Themes
 ;projects[omega][type] = theme
+projects[zen][type] = theme
