@@ -79,6 +79,7 @@ projects[] = field_group
 projects[] = field_permissions
 projects[] = field_validation
 projects[] = file_entity
+projects[] = filefield_sources
 projects[] = flag
 projects[] = flag_files
 projects[] = flexslider
