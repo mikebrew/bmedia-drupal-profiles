@@ -111,6 +111,7 @@ projects[] = masquerade
 projects[] = media
 projects[] = media_youtube
 projects[] = media_vimeo
+projects[] = menu_attributes
 projects[] = menu_block
 projects[] = menu_token
 projects[] = menu_views
