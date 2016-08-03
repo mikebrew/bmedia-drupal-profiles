@@ -170,6 +170,7 @@ projects[] = views_bulk_operations
 projects[] = views_calc
 projects[] = views_data_export
 projects[] = views_datasource
+projects[] = views_distinct
 projects[] = views_field_view
 projects[] = views_megarow
 projects[] = views_slideshow
