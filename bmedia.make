@@ -247,6 +247,13 @@ libraries[pie][destination] = libraries
 libraries[pie][directory_name] = pie
 libraries[pie][download][branch] = master
 
+libraries[prettify][download][type] = git
+libraries[prettify][download][url] = https://github.com/google/code-prettify.git
+libraries[prettify][destination] = libraries
+libraries[prettify][directory_name] = prettify
+libraries[prettify][download][branch] = master
+
+
 libraries[hybridauth][type] = git
 libraries[hybridauth][download][url] = https://github.com/hybridauth/hybridauth.git
 libraries[hybridauth][destination] = libraries
