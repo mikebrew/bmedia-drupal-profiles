@@ -141,6 +141,7 @@ projects[] = pathauto
 projects[] = pathologic
 projects[] = pm_existing_pages
 projects[] = prepopulate
+projects[] = prettify
 projects[] = profile2
 projects[] = profiler_builder
 projects[] = publishcontent
