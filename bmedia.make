@@ -8,11 +8,11 @@ projects[drupal][download][type] = "get"
 ;projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.26.1.tar.gz"
 
 ;via Drupal.org
-projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-7.51.tar.gz"
+projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-7.52.tar.gz"
 
 ; Drush commands
 ;   Download modules/libraries only, no core
-;   drush make --no-core --contrib-destination=all bmedia.make 
+;   drush make --no-core --contrib-destination=all bmedia.make
 
 
 ; Modules
