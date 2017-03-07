@@ -175,6 +175,7 @@ projects[] = uuid
 projects[] = video
 projects[] = views
 projects[] = views_aggregator
+projects[] = views_bootstrap
 projects[] = views_bulk_operations
 projects[] = views_calc
 projects[] = views_data_export
