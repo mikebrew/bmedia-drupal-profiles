@@ -186,6 +186,7 @@ projects[] = views_flipped_table
 projects[] = views_megarow
 projects[] = views_slideshow
 projects[] = views_xml_backend
+projects[] = void_menu
 projects[] = webform
 projects[] = webform_rules
 projects[] = webform_multifile
