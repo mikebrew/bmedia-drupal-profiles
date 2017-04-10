@@ -135,8 +135,6 @@ projects[] = node_clone
 projects[] = node_noindex
 projects[] = nodeblock
 projects[] = nodejs
-projects[] = og
-projects[] = og_extras
 projects[] = options_element
 projects[] = panels
 projects[] = panelizer
@@ -196,6 +194,8 @@ projects[] = wysiwyg
 
 ;Referenced / not installed on all platforms
 ;projects[] = context_og
+;projects[] = og
+;projects[] = og_extras
 ;projects[] = og_menu
 ;projects[] = omega
 

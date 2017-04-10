@@ -88,7 +88,10 @@ dependencies[] = options
 
 ; P
 dependencies[] = path
+dependencies[] = pathauto
 dependencies[] = page_manager
+dependencies[] = paragraphs
+dependencies[] = prepopulate
 dependencies[] = pm_existing_pages
 
 ; R
@@ -118,6 +121,7 @@ dependencies[] = user
 dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = views_bulk_operations
+dependencies[] = views_flipped_table
 dependencies[] = views_xml
 dependencies[] = views_json
 
