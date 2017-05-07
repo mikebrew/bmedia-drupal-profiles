@@ -8,6 +8,7 @@ core = 7.x
 ; ----------
 ; A
 dependencies[] = admin_menu
+dependencies[] = adminimal_admin_menu
 dependencies[] = admin_menu_toolbar
 dependencies[] = addressfield
 dependencies[] = autocomplete_deluxe
