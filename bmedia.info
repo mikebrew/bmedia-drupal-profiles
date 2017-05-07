@@ -82,6 +82,7 @@ dependencies[] = media
 
 ; N
 dependencies[] = node
+dependencies[] = node_convert
 dependencies[] = number
 
 ; O

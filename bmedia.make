@@ -133,6 +133,7 @@ projects[] = multiupload_filefield_widget
 projects[] = nodeaccess
 projects[] = node_export
 projects[] = node_clone
+projects[] = node_convert
 projects[] = node_noindex
 projects[] = nodeblock
 projects[] = nodejs
