@@ -91,6 +91,7 @@ projects[] = filefield_sources
 projects[] = flag
 projects[] = flag_files
 projects[] = flexslider
+projects[] = force_password_change
 projects[] = friendly_register
 projects[] = geofield
 projects[] = geophp
