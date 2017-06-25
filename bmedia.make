@@ -175,6 +175,7 @@ projects[] = strongarm
 projects[] = styleguide
 projects[] = superfish
 projects[] = support
+projects[] = taxonomy_display
 projects[] = taxonomy_edge
 projects[] = timefield
 projects[] = token

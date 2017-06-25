@@ -111,6 +111,7 @@ dependencies[] = system
 ; T
 dependencies[] = token
 dependencies[] = taxonomy
+dependencies[] = taxonomy_display
 dependencies[] = text
 dependencies[] = toolbar
 dependencies[] = trigger
