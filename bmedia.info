@@ -15,6 +15,7 @@ dependencies[] = autocomplete_deluxe
 
 ; B
 dependencies[] = better_exposed_filters
+dependencies[] = better_formats
 dependencies[] = bulk_export
 dependencies[] = block
 dependencies[] = book
