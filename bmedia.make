@@ -108,6 +108,7 @@ projects[] = honeypot
 projects[] = hybridauth
 ;projects[] = imagecache_actions
 ;projects[] = imagefield_crop
+projects[] = image_url_formatter
 projects[] = imce
 projects[] = imce_filefield
 projects[] = imce_wysiwyg
