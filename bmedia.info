@@ -126,6 +126,7 @@ dependencies[] = user
 dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = views_bulk_operations
+dependencies[] = views_contextual_filter_query
 dependencies[] = views_flipped_table
 dependencies[] = views_xml
 dependencies[] = views_json
