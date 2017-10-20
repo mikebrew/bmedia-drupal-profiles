@@ -89,6 +89,7 @@ projects[] = fences
 projects[] = field_collection
 projects[] = field_conditional_state
 projects[] = field_group
+projects[] = field_tools
 projects[] = field_permissions
 projects[] = field_validation
 projects[] = file_entity
