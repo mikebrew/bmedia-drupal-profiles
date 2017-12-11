@@ -125,6 +125,7 @@ dependencies[] = user
 
 ; V
 dependencies[] = views
+dependencies[] = views_conditional
 dependencies[] = views_ui
 dependencies[] = views_bulk_operations
 dependencies[] = views_contextual_filter_query
