@@ -27,6 +27,7 @@ projects[] = advanced_help
 projects[] = autocomplete_deluxe
 projects[] = auto_nodetitle
 projects[] = backup_migrate
+projects[] = barcode
 projects[] = bean
 projects[] = better_exposed_filters
 projects[] = better_formats
