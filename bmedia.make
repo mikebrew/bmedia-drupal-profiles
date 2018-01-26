@@ -13,16 +13,12 @@ projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-
 
 
 ; Modules
-projects[] = adaptive_image
-projects[] = addressfield
+projects[] = address
 projects[] = addtoany
-projects[] = admin
-projects[] = admin_menu
-projects[] = adminimal_admin_menu
-projects[] = admin_views
-projects[] = advanced_help
+
 projects[] = autocomplete_deluxe
-projects[] = auto_nodetitle
+
+
 projects[] = backup_migrate
 projects[] = barcode
 projects[] = bean
