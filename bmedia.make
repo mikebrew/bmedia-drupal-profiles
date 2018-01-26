@@ -1,14 +1,11 @@
-; BMedia Drupal Platform
-core = 7.x
+; BMedia Drupal Platform (v8)
+core = 8.x
 api = 2
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
 
-;via Aeigir
-;projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-8.26.1.tar.gz"
-
 ;via Drupal.org
-projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-7.56.tar.gz"
+projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-8.4.4.tar.gz"
 
 ; Drush commands
 ;   Download modules/libraries only, no core
