@@ -228,7 +228,7 @@ libraries[superfish][directory_name] = superfish
 libraries[superfish][download][branch] = master
 
 libraries[ckeditor][download][type] = git
-libraries[ckeditor][download][url] = https://github.com/mikebrew/ckeditor.git
+libraries[ckeditor][download][url] = https://github.com/mikebrew/libraries-ckeditor.git
 libraries[ckeditor][destination] = libraries
 libraries[ckeditor][directory_name] = ckeditor
 libraries[ckeditor][download][branch] = master
