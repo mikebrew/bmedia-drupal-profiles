@@ -92,6 +92,9 @@ dependencies[] = number
 dependencies[] = options
 
 ; P
+dependencies[] = panels
+dependencies[] = panels_extra_layouts
+dependencies[] = panels_style_collapsible
 dependencies[] = path
 dependencies[] = pathauto
 dependencies[] = page_manager
