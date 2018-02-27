@@ -147,6 +147,7 @@ projects[] = panels
 projects[] = panelizer
 projects[] = panels_breadcrumbs
 projects[] = panels_extra_layouts
+projects[] = panels_style_collapsible
 projects[] = paragraphs
 projects[] = pathauto
 projects[] = pathologic
