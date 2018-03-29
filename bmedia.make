@@ -100,6 +100,7 @@ projects[] = flag_files
 projects[] = flexslider
 projects[] = force_password_change
 projects[] = friendly_register
+projects[] = gdoc_field
 projects[] = geofield
 projects[] = geophp
 projects[] = geolocation
