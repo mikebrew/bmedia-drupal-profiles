@@ -110,6 +110,7 @@ projects[] = google_qr_code
 projects[] = hierarchical_select
 projects[] = honeypot
 projects[] = hybridauth
+projects[] = iframe
 ;projects[] = imagecache_actions
 ;projects[] = imagefield_crop
 projects[] = image_url_formatter
