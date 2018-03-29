@@ -67,6 +67,7 @@ projects[] = content_access
 projects[] = context
 projects[] = ctools
 projects[] = date
+projects[] = datepicker
 projects[] = delta
 projects[] = diff
 projects[] = ds
