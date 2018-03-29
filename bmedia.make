@@ -178,6 +178,7 @@ projects[] = securelogin
 projects[] = select_or_other
 projects[] = semanticviews
 projects[] = services
+projects[] = shorten
 projects[] = smtp
 projects[] = special_menu_items
 projects[] = strongarm
