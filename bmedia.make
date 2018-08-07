@@ -24,6 +24,7 @@ projects[] = admin_menu
 projects[] = adminimal_admin_menu
 projects[] = admin_views
 projects[] = advanced_help
+projects[] = advanced_link
 projects[] = autocomplete_deluxe
 projects[] = auto_nodetitle
 projects[] = backup_migrate

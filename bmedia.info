@@ -11,6 +11,7 @@ dependencies[] = admin_menu
 dependencies[] = adminimal_admin_menu
 dependencies[] = admin_menu_toolbar
 dependencies[] = addressfield
+dependencies[] = advanced_link
 dependencies[] = autocomplete_deluxe
 
 ; B
