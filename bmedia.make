@@ -19,6 +19,7 @@ projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-
 projects[] = adaptive_image
 projects[] = addressfield
 projects[] = addtoany
+projects[] = addtocal
 projects[] = admin
 projects[] = admin_menu
 projects[] = adminimal_admin_menu
