@@ -82,6 +82,7 @@ projects[] = entityreference_prepopulate
 projects[] = entity_rules
 projects[] = entity2text
 projects[] = eva
+projects[] = exclude_node_title
 projects[] = features
 projects[] = features_extra
 projects[] = feeds
