@@ -8,7 +8,7 @@ projects[drupal][download][type] = "get"
 ;projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.26.1.tar.gz"
 
 ;via Drupal.org
-projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-7.60.tar.gz"
+projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-7.61.tar.gz"
 
 ; Drush commands
 ;   Download modules/libraries only, no core
