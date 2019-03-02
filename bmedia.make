@@ -17,6 +17,7 @@ projects[] = admin_toolbar
 projects[] = captcha
 projects[] = ctools
 projects[] = entity
+projects[] = entity_reference_revisions
 projects[] = google_analytics
 projects[] = module_filter
 projects[] = paragraphs
