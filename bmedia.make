@@ -16,8 +16,10 @@ projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-
 projects[] = admin_toolbar
 projects[] = captcha
 projects[] = ctools
+projects[] = config_update
 projects[] = entity
 projects[] = entity_reference_revisions
+projects[] = features
 projects[] = google_analytics
 projects[] = module_filter
 projects[] = paragraphs
@@ -25,6 +27,7 @@ projects[] = pathauto
 projects[] = recaptcha
 projects[] = token
 projects[] = webform
+projects[] = workflow
 
 
 ;Install command

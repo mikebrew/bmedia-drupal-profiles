@@ -12,3 +12,4 @@ dependencies[] = pathauto
 dependencies[] = ctools
 dependencies[] = paragraphs
 dependencies[] = entity_reference_revisions
+dependencies[] = workflow
