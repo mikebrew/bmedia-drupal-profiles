@@ -18,6 +18,7 @@ projects[] = captcha
 projects[] = ctools
 projects[] = entity
 projects[] = google_analytics
+projects[] = module_filter
 projects[] = paragraphs
 projects[] = pathauto
 projects[] = recaptcha
