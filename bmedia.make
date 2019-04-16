@@ -135,6 +135,7 @@ projects[] = link
 projects[] = login_destination
 projects[] = login_security
 projects[] = logintoboggan
+projects[] = mailhandler
 projects[] = manualcrop
 projects[] = machine_name
 projects[] = markup
