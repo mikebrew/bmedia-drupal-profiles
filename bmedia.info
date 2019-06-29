@@ -119,6 +119,7 @@ dependencies[] = system
 dependencies[] = token
 dependencies[] = taxonomy
 dependencies[] = taxonomy_display
+dependencies[] = term_merge
 dependencies[] = text
 dependencies[] = toolbar
 dependencies[] = trigger
