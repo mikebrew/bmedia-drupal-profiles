@@ -121,6 +121,7 @@ dependencies[] = taxonomy
 dependencies[] = taxonomy_display
 dependencies[] = term_merge
 dependencies[] = text
+dependencies[] = text_resize
 dependencies[] = toolbar
 dependencies[] = trigger
 

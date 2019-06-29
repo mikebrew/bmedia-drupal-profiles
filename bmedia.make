@@ -196,6 +196,7 @@ projects[] = support
 projects[] = taxonomy_display
 projects[] = taxonomy_edge
 projects[] = term_merge
+projects[] = text_resize
 projects[] = timefield
 projects[] = token
 projects[] = transliteration
