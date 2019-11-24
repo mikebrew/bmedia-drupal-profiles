@@ -5,7 +5,7 @@ projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
 
 ;via Drupal.org
-projects[drupal][download][url] = "hhttps://ftp.drupal.org/files/projects/drupal-8.7.10.tar.gz"
+projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-8.7.10.tar.gz"
 
 ; Drush commands
 ;   Download modules/libraries only, no core
