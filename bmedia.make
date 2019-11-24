@@ -4,8 +4,8 @@ api = 2
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
 
-;via Drupal.org
-projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-8.7.7.tar.gz"
+;Varbase Profile via Drupal.org
+projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/varbase-8.x-7.2-core.tar.gz"
 
 ; Drush commands
 ;   Download modules/libraries only, no core
@@ -13,21 +13,7 @@ projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-
 
 
 ; Modules
-projects[] = admin_toolbar
-projects[] = captcha
-projects[] = ctools
-projects[] = config_update
-projects[] = entity
-projects[] = entity_reference_revisions
-projects[] = features
-projects[] = google_analytics
-projects[] = module_filter
-projects[] = paragraphs
-projects[] = pathauto
-projects[] = recaptcha
-projects[] = token
-projects[] = webform
-projects[] = workflow
+; projects[] = admin_toolbar
 
 
 ;Install command
