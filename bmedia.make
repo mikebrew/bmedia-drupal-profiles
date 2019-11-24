@@ -5,7 +5,7 @@ projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
 
 ;Varbase Profile via Drupal.org
-projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/varbase-8.x-7.2-core.tar.gz"
+projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/varbase-8.x-6.11-core.tar.gz"
 
 ; Drush commands
 ;   Download modules/libraries only, no core
