@@ -48,6 +48,7 @@ dependencies[] = entityreference_prepopulate
 dependencies[] = eva
 dependencies[] = entity
 dependencies[] = entity_token
+dependencies[] = exif_orientation
 
 ; F
 dependencies[] = field
