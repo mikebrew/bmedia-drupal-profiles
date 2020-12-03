@@ -1,11 +1,11 @@
-; BMedia Drupal Platform (v8)
-core = 8.x
+; BMedia Drupal Platform (v9)
+core = 9.x
 api = 2
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
 
 ;via Drupal.org
-projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-8.9.11.tar.gz"
+projects[drupal][download][url] = "https://ftp.drupal.org/files/projects/drupal-9.1.0.tar.gz"
 
 ; Drush commands
 ;   Download modules/libraries only, no core
